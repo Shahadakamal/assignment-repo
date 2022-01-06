@@ -2,11 +2,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1 {
-    font-size: 50px;
-    font-family: 'DM Serif Display', serif;
-}
-
 .text-formation {
     font-size: 40px;
     text-align: center;
@@ -35,6 +30,9 @@ h1 {
 #heading-border {
     border-left: 4px solid #4c7383;
     padding-left: 3%;
+    font-size: 50px;
+    font-family: 'DM Serif Display', serif;
+
 }
 
 .link-button {

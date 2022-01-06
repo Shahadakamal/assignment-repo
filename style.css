@@ -7,10 +7,9 @@ h1 {
     font-family: 'DM Serif Display', serif;
 }
 
-h2 {
+.text-formation {
     font-size: 40px;
     text-align: center;
-    font-weight: 700;
 }
 
 .color {
@@ -19,7 +18,10 @@ h2 {
 
 .flaxible-block {
     display: flex;
-    padding: 0% 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 5%;
+
 }
 
 .width-space {
@@ -49,6 +51,8 @@ h2 {
     margin-left: ;
     margin-right: 1%;
     padding: 2%;
+    margin-bottom: 2%;
+
 }
 
 #vission-div {
@@ -58,17 +62,54 @@ h2 {
     margin-left: 1%;
     margin-right: 1%;
     padding: 2%;
+    margin-bottom: 2%;
+
 }
 
 #goal-div {
-    background-color: rgb(189, 216, 202);
+    background-color: rgb(172, 228, 179);
     border-radius: 15px;
     width: 30%;
     margin-left: 1%;
     margin-right: ;
     padding: 2%;
+    margin-bottom: 2%;
+
 }
 
 .image {
     width: 120px;
+}
+
+.img-dev-glob {
+    width: 350px;
+}
+
+#process {
+    padding-left: 10%;
+}
+
+.heading-font {
+    font-size: 30px;
+}
+
+#image-2 {
+    border-radius: 20px;
+}
+
+.color {
+    color: rgb(236, 28, 28);
+}
+
+.blo-don {
+    color: rgb(236, 28, 28);
+}
+
+#blo-appl {
+    padding-left: 25%;
+}
+
+#img-blood {
+    width: 350px;
+    padding-left: 35%;
 }
